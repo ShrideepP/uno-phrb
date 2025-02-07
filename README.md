@@ -29,14 +29,14 @@ This is an online multiplayer Uno card game built using **PostgreSQL, Hono.js, R
 ### **1️⃣ Clone the repository**
 
 ```sh
-git clone https://github.com/yourusername/uno-phrb.git
+git clone https://github.com/ShrideepP/uno-phrb.git
 cd uno-phrb
 ```
 
 ### **2️⃣ Setup Backend**
 
 ```sh
-cd backend
+cd server
 bun install
 bun run dev
 ```
@@ -46,9 +46,9 @@ bun run dev
 ### **3️⃣ Setup Frontend**
 
 ```sh
-cd ../frontend
-npm install
-npm run dev
+cd ../client
+bun install
+bun run dev
 ```
 
 ---
