@@ -57,9 +57,9 @@ bun run dev
 
 ### **Phase 1: Backend Foundation**
 
-- [ ] Set up Hono.js server with Bun
-- [ ] Configure PostgreSQL database connection
-- [ ] Implement authentication (register, login, logout)
+- [x] Set up Hono.js server with Bun
+- [x] Configure PostgreSQL database connection
+- [x] Implement authentication (register, login, logout)
 - [ ] Create WebSocket server for real-time updates
 - [ ] Define database models (User, Game, Player, Card)
 - [ ] Implement core game logic (turns, card effects)
